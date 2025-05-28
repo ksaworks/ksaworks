@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Kelvin Santos Andrade</h1>
+<h1 align="center">👋 Olá, meu nome é Kelvin Andrade</h1>
 
 <p align="center">
   <strong>Analista de Dados em transição de carreira, com histórico em operações, TI e estratégia.</strong><br>
