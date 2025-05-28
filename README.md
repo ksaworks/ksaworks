@@ -19,7 +19,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <!-- Power BI -->
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" />
   
