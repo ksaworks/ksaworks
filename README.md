@@ -19,6 +19,43 @@
 ---
 
 ### 🛠️ Tech Stack
+<p align="left">
+  <!-- Power BI -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" />
+  
+  <!-- Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" />
+  
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" />
+  
+  <!-- Matplotlib -->
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" />
+  
+  <!-- Seaborn (não tem ícone oficial) -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" />
+  
+  <!-- Scikit-learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40"/>
+  
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" />
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
+  
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
+  
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" />
+  
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" />
+</p>
 
 - 📊 Power BI | Excel Avançado | DAX
 - 🐍 Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
@@ -26,6 +63,12 @@
 - 🧠 SQL (PostgreSQL, SQLite)
 - 🗂️ Git | GitHub | HTML/CSS
 - 📁 MicroStrategy | Consinco | Emporium
+### 🛠️ Tech Stack
+
+### 🛠️ Tech Stack
+
+
+
 
 ---
 
