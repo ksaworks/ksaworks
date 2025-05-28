@@ -63,11 +63,6 @@
 - 🧠 SQL (PostgreSQL, SQLite)
 - 🗂️ Git | GitHub | HTML/CSS
 - 📁 MicroStrategy | Consinco | Emporium
-### 🛠️ Tech Stack
-
-### 🛠️ Tech Stack
-
-
 
 
 ---
