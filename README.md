@@ -161,7 +161,7 @@ Atualmente focado em:
 
 ## 💼 Experiência Profissional
 
-### 🏭 Analista de Dados Júnior | Fiação Itabaiana
+### 🏭 Analista de Dados | Fiação Itabaiana
 **Agosto/2025 - Presente**
 
 Indústria têxtil especializada em fios de algodão Open End sustentáveis e premium.
@@ -181,7 +181,7 @@ Indústria têxtil especializada em fios de algodão Open End sustentáveis e pr
 ---
 
 ### 🛒 Chefe Administrativo | Assaí Atacadista
-**2020 - Maio/2025**
+**2018 - Maio/2025**
 
 **Responsabilidades:**
 - Gestão de equipe de 15 colaboradores (recebimento, administrativo, inventário)
