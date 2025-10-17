@@ -77,49 +77,73 @@ Solução completa para controle de manutenção de equipamentos industriais com
 ---
 
 ### 🤖 [Dashboard de Almoxarifado com Machine Learning](https://github.com/ksaworks/dashboard-almoxarifado)
-**Dashboard interativo apresentado ao CEO**  
-Análise completa de 8.529 requisições (R$ 387M) com identificação de equipamentos críticos, padrões de demanda e oportunidades de economia.
+**Sistema inteligente de gestão e previsão de demanda com IA**  
+Dashboard Streamlit com modelos de ML (Random Forest, Gradient Boosting, Prophet) para previsões de 3-12 meses, detecção de anomalias e análise de criticidade de máquinas.
 
 - **Tech Stack:** Python + Streamlit + Scikit-learn + Prophet + Plotly
-- **Modelos:** Linear Regression, Random Forest, Gradient Boosting, Prophet (Meta)
-- **Features:** Previsão de demanda, detecção de anomalias, análise de criticidade, controle de estoque
-- **Impacto:** Otimização de planejamento de compras e manutenção preditiva
+- **Modelos ML:** Linear Regression, Random Forest, Gradient Boosting, Prophet (Meta)
+- **Features:** Previsão de demanda, detecção de anomalias, análise de criticidade, controle financeiro
+- **Destaque:** Patch para NumPy 2.0+, validação automática de dados, gráficos interativos
+
+---
+
+### 🏨 [Análise de Acomodações Airbnb NYC](https://github.com/ksaworks/analise-airbnb-nyc)
+**Dashboard Power BI com análise de mercado imobiliário**  
+Transformação de milhares de registros do Airbnb em insights estratégicos sobre preços, localização e padrões de ocupação.
+
+- **Tech Stack:** Power BI + Power Query + DAX
+- **Destaques:** Gráfico de Pareto (Top 100 bairros), mapa geográfico, análise temporal
+- **Insights:** Identificação de bairros premium e sazonalidade de preços
 
 ---
 
 ### 💼 [DataLuz - Plataforma SaaS para E-commerce](https://github.com/ksaworks/dataluz-plataforma-saas)
 **Produto fictício de BI para gestão de métricas AARRR**  
-Dashboard completo com métricas de aquisição, ativação, retenção, receita e indicação, incluindo alertas via WhatsApp.
+Solução completa para pequenos e médios e-commerces com dashboards intuitivos, alertas via WhatsApp e relatórios automáticos.
 
-- **Tech Stack:** Power BI + Python + APIs
-- **Diferenciais:** Automação de relatórios, alertas inteligentes, visualização de funis
+- **Tech Stack:** Power BI + Python + APIs + Métricas AARRR
+- **Diferenciais:** Integração via API, automação de relatórios, insights via WhatsApp
+- **Foco:** Resolver falta de tempo e conhecimento técnico para BI
 
 ---
 
 ### 🎯 [Segmentação RFM de Clientes](https://github.com/ksaworks/rfm-segmentacao)
-**Clusterização de clientes por valor, frequência e recência**  
-Análise estratégica para identificação de clientes VIP, em risco e oportunidades de reativação.
+**Clusterização estratégica por Recência, Frequência e Valor Monetário**  
+Análise para identificação de clientes Campeões, Fiéis, Promissores e Em Risco com foco em campanhas personalizadas.
 
-- **Tech Stack:** Python + Pandas + Seaborn + Scikit-learn
-- **Metodologia:** K-Means Clustering + Análise RFM
+- **Tech Stack:** Excel Avançado (ÍNDICE, CORRESP, SOMASE, PERCENTIL)
+- **Resultados:** 40% dos clientes são potenciais fiéis; apenas 1% "Não Perder"
+- **Aplicação:** Segmentação para maximizar ROI em marketing
 
 ---
 
-### 📈 [Análise de Cohort - Superstore](https://github.com/ksaworks/analise-cohort-superstore)
+### 📈 [Análise de Cohort - SuperStore](https://github.com/ksaworks/analise-cohort-superstore)
 **Estudo de retenção de clientes ao longo do tempo**  
-Mapeamento de comportamento de compra por coorte com identificação de padrões sazonais.
+Análise de retenção com dados reais de rede nacional de supermercados, identificando melhores grupos de aquisição e padrões de comportamento.
 
-- **Tech Stack:** Python + Matplotlib + Pandas
-- **Insights:** Taxa de retenção de 11% no 4º mês, sazonalidade trimestral identificada
+- **Tech Stack:** Excel (PROCV, Tabelas Dinâmicas, Formatação Condicional)
+- **Insights:** Cohort maio/2014 teve melhor retenção (11% após 6 meses)
+- **Destaque:** Campanhas promocionais impactam positivamente a recompra
 
 ---
 
-### 🤖 [Classificação de Cartão Fidelidade](https://github.com/ksaworks/projeto-cartao-fidelidade)
-**Modelo de ML para prever adesão a programas de fidelidade**  
-Predição de comportamento de clientes com 78% de acurácia.
+### 🤖 [Previsão de Fidelidade com IA](https://github.com/ksaworks/projeto-cartao-fidelidade)
+**Classificação de clientes para programas de fidelidade (Aurora, Nova, Star)**  
+Modelo de Machine Learning com interface Gradio para prever propensão de adesão a cartões de fidelidade.
 
-- **Tech Stack:** Python + Scikit-learn + Gradio
-- **Técnicas:** Logistic Regression, Random Forest, feature engineering
+- **Tech Stack:** Python + Scikit-learn + Gradio + Matplotlib
+- **Modelo:** Árvore de Decisão com visualização em tempo real
+- **Destaque:** Deploy interativo para simulação de novos clientes
+
+---
+
+### ⚖️ [Simulação Jurídica com Dados Sintéticos](https://github.com/ksaworks/simulacao-dados-juridicos)
+**Gerador de dados jurídicos realistas para Data Science**  
+Dataset completo com 2.000 processos, partes envolvidas e movimentações para demonstração de habilidades em BI e modelagem preditiva.
+
+- **Tech Stack:** Python + Pandas + Faker
+- **Geração:** Valores de causa, provisão de risco, fases processuais, advogados responsáveis
+- **Aplicação:** Treinamento e criação de portfólio com dados confidenciais simulados
 
 ---
 
@@ -137,7 +161,7 @@ Atualmente focado em:
 
 ## 💼 Experiência Profissional
 
-### 🏭 Analista de Dados | Fiação Itabaiana
+### 🏭 Analista de Dados Júnior | Fiação Itabaiana
 **Agosto/2025 - Presente**
 
 Indústria têxtil especializada em fios de algodão Open End sustentáveis e premium.
@@ -157,10 +181,10 @@ Indústria têxtil especializada em fios de algodão Open End sustentáveis e pr
 ---
 
 ### 🛒 Chefe Administrativo | Assaí Atacadista
-**2018 - Maio/2025**
+**2020 - Maio/2025**
 
 **Responsabilidades:**
-- Gestão de equipe de 15 colaboradores (recebimento, administrativo, Tesouraria)
+- Gestão de equipe de 15 colaboradores (recebimento, administrativo, inventário)
 - Análise de dados operacionais no sistema RUB (vendas, estoque, perdas)
 - Controle de despesas operacionais e metas de redução de custos
 - Processos de inventário e acuracidade de estoque
@@ -214,4 +238,8 @@ Estou sempre aberto a discutir projetos, oportunidades e trocar experiências so
 
 <p align="center">
   <i>"Dados contam histórias. Meu trabalho é fazer com que todos as entendam."</i>
+</p>
+
+<p align="center">
+  <sub>⭐ Feito com dedicação por Kelvin Andrade</sub>
 </p>
