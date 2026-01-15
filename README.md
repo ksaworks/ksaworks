@@ -27,8 +27,8 @@ Atuo na intersecção entre **Business Intelligence**, **Engenharia de Dados** e
 Atualmente Analista de Dados na **Fiação Itabaiana**, combino minha experiência sólida em operações (ex-Assaí Atacadista) com uma stack técnica robusta para resolver problemas reais. Não entrego apenas relatórios; entrego **sistemas de decisão**.
 
 ### 💡 Minha abordagem:
-* **Mentalidade de Produto (SaaS):** Desenvolvo soluções escaláveis, multi-tenant e focadas na experiência do usuário final, seja um dashboard executivo ou um sistema interno de chamados.
-* **Full-Stack Analytics:** Do ETL no SQL Server e automação em Python até o storytelling no Power BI e Front-end em React.
+* **Mentalidade de Produto (SaaS):** Desenvolvo soluções escaláveis, multi-tenant e focadas na experiência do usuário final.
+* **Full-Stack Analytics:** Do ETL no SQL Server e automação em Python até o storytelling no Power BI e Front-end reativo com Alpine.js.
 * **Business Partner:** Traduzo "tech-speak" para "business-speak". Meus códigos geram ROI.
 
 ---
@@ -37,18 +37,31 @@ Atualmente Analista de Dados na **Fiação Itabaiana**, combino minha experiênc
 
 <div align="center">
 
-| **Análise & Visualização** | **Engenharia & Backend** | **Dados & IA** |
+| **Frontend & BI** | **Backend & Engenharia** | **Banco de Dados & Infra** |
 |:---:|:---:|:---:|
 | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
-| ![DAX](https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| ![Alpine.js](https://img.shields.io/badge/alpinejs-2D3440?style=for-the-badge&logo=alpine.js&logoColor=8BC0D0) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 
 </div>
 
 ---
 
 ## 🏆 Projetos em Destaque
+
+### 🏢 [Plataforma SaaS de Gestão Estratégica (Multi-tenant)](https://github.com/ksaworks)
+> *Laravel 12 • Alpine.js • SQLite (Tenant Isolation) • TailwindCSS*
+
+Sistema SaaS completo para gestão corporativa, desenvolvido com arquitetura **Multi-tenant** (Database-per-Tenant) garantindo isolamento total de dados.
+* **Arquitetura:** Laravel 12 API-First com autenticação via **Sanctum** e Front-end reativo com **Alpine.js**.
+* **Features Avançadas:**
+    * **Gestão Financeira:** Integração com Gateway **Asaas** (PIX/Boleto).
+    * **Interatividade:** Kanban com **SortableJS** (Drag & Drop) e Dashboards com **Chart.js**.
+    * **Estratégia:** Módulos de BSC (Balanced Scorecard) e Matriz SWOT interativa.
+* **Diferencial:** Sistema leve utilizando SQLite para alta performance e portabilidade por cliente.
+
+---
 
 ### 🏭 [SaaS Service Desk & Manutenção](https://github.com/ksaworks/service-desk-app)
 > *Django • React • PostgreSQL • Supabase*
