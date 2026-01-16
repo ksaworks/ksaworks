@@ -105,8 +105,9 @@ Dashboard preditivo para almoxarifado industrial, utilizando modelos de ML para 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ksaworks&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaworks&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  <a href="https://github.com/ksaworks">
+    <img height="180" src="https://github.com/ksaworks/ksaworks/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </a>
 </div>
 
 ---
